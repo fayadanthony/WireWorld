@@ -1,0 +1,1 @@
+Please install the 2 fonts (Pixeloid Sans and Pixeloid Sans Bold) before opening the Matlab app.
